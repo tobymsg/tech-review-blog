@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tobymsg.github.io/tech-review-blog/sitemap.xml
